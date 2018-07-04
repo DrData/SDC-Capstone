@@ -3,6 +3,5 @@
 build
 devel
 
-ros/src/darknet_ros/darknet_ros/yolo_network_config/yolov3.weights
 
 profile.tmp
